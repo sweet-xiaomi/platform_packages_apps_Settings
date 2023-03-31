@@ -157,4 +157,8 @@
     <!-- App data usage Datura Firewall link -->
     <string name="data_usage_app_datura_firewall">Datura Firewall</string>
     <string name="data_usage_app_datura_firewall_summary">Firewall settings have been moved to the new Firewall app. Tap to open.</string>
+
+    <!-- Force LTE_CA -->
+    <string name="force_lte_ca">Force LTE CA</string>
+    <string name="force_lte_ca_summary">Force LTE carrier aggregation to work</string>
 </resources>
